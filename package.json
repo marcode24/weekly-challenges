@@ -1,0 +1,28 @@
+{
+  "name": "weekly-challenges",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "lint": "eslint .",
+    "lint:fix": "eslint . --fix",
+    "lint:watch": "eslint . --watch"
+  },
+  "devDependencies": {
+    "eslint": "^8.31.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.26.0",
+    "jest": "^29.3.1"
+  },
+  "keywords": [
+    "javascript",
+    "challenges",
+    "weekly",
+    "coding",
+    "practice",
+    "problems"
+  ],
+  "author": "marcode24",
+  "license": "ISC",
+  "description": "weekly coding challenges in javascript"
+}
