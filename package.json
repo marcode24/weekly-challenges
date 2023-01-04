@@ -4,8 +4,9 @@
   "main": "index.js",
   "scripts": {
     "test": "jest",
-    "test:watch": "jest --watch",
-    "test:coverage": "jest --coverage --watchAll=false",
+    "test:watch": "jest --watch --verbose",
+    "test:coverage": "jest --coverage --verbose --watchAll=false",
+    "test:2023": "jest --testPathPattern=2023",
     "lint": "eslint .",
     "lint:fix": "eslint . --fix",
     "lint:watch": "eslint . --watch"
