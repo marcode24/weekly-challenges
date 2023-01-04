@@ -4,6 +4,9 @@
   "main": "index.js",
   "scripts": {
     "test": "jest",
+    "test:watch": "jest --watch --verbose",
+    "test:coverage": "jest --coverage --verbose --watchAll=false",
+    "test:2023": "jest --testPathPattern=2023",
     "lint": "eslint .",
     "lint:fix": "eslint . --fix",
     "lint:watch": "eslint . --watch"
@@ -24,5 +27,15 @@
   ],
   "author": "marcode24",
   "license": "ISC",
-  "description": "weekly coding challenges in javascript"
+  "description": "weekly coding challenges in javascript",
+  "jest": {
+    "coverageThreshold": {
+      "global": {
+        "branches": 85,
+        "functions": 85,
+        "lines": 85,
+        "statements": 85
+      }
+    }
+  }
 }
