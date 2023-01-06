@@ -6,7 +6,8 @@
     "test": "jest",
     "test:watch": "jest --watch --verbose",
     "test:coverage": "jest --coverage --verbose --watchAll=false",
-    "test:2023": "jest --testPathPattern=2023",
+    "test:2023": "jest --testPathPattern=2023 --verbose",
+    "test:2022": "jest --testPathPattern=2022 --verbose",
     "lint": "eslint .",
     "lint:fix": "eslint . --fix",
     "lint:watch": "eslint . --watch"
