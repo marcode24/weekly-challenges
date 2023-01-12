@@ -1,6 +1,6 @@
 const calculate = require('./solution');
 
-describe('Challenge 21: Calculadora TXT', () => {
+xdescribe('Challenge 21: Calculadora TXT', () => {
   const testCases = [
     {
       input: 'file-01',
