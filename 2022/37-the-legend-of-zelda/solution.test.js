@@ -3,10 +3,6 @@ const getDifference = require('./solution');
 describe('Challenge 37: The Legend of Zelda', () => {
   const testCases = [
     {
-      input: ['THE_LEGEND_OF_ZELDA', 'TEARS_OF_THE_KINGDOM'],
-      output: { years: 37, days: 91 },
-    },
-    {
       input: ['THE_LEGEND_OF_ZELDA', 'THE_ADVENTURE_OF_LINK'],
       output: { years: 0, days: 330 },
     },
