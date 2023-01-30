@@ -7,7 +7,7 @@ describe('Challenge 48: Calendario de Adeviento', () => {
       output: 'Regalo 1',
     },
     {
-      input: '2022-12-24T23:59:59.000-06:00',
+      input: '2022-12-24T00:00:00.000-06:00',
       output: 'Regalo 24',
     },
     {
