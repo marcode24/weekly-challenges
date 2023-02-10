@@ -8,6 +8,19 @@ This repository contains my solutions to the weekly challenges from [Weekly Codi
 
 <details hide>
 <summary>Show / Hide</summary>
+
+|  #  | Challenge                                                                               | Difficulty |                                                My Solution                                                 |
+| :-: | --------------------------------------------------------------------------------------- | :--------: | :--------------------------------------------------------------------------------------------------------: |
+| 00  | [El famoso fizz buzz](https://retosdeprogramacion.com/semanales2023)                    |     🟢     |             [Here](https://github.com/marcode24/weekly-challenges/tree/main/2023/00-fizz-buzz)             |
+| 01  | [El Lenguaje Hacker](https://retosdeprogramacion.com/semanales2023)                     |     🟢     |          [Here](https://github.com/marcode24/weekly-challenges/tree/main/2023/01-lenguaje-hacker)          |
+| 03  | [El generador de contraseñas](https://retosdeprogramacion.com/semanales2023)            |     🟡     |     [Here](https://github.com/marcode24/weekly-challenges/tree/main/2023/03-generador-de-contraseñas)      |
+| 04  | [Primo, Fibonnaci y Par](https://retosdeprogramacion.com/semanales2023)                 |     🟡     |        [Here](https://github.com/marcode24/weekly-challenges/tree/main/2023/04-primo-fibonnaci-par)        |
+| 05  | [¡Hola Mundo!](https://retosdeprogramacion.com/semanales2023)                           |     🟢     |            [Here](https://github.com/marcode24/weekly-challenges/tree/main/2023/05-hola-mundo)             |
+| 06  | [Piedra, Papel, Tijera, Lagarto y Spock](https://retosdeprogramacion.com/semanales2023) |     🟡     | [Here](https://github.com/marcode24/weekly-challenges/tree/main/2023/06-piedra-papel-tijera-lagarto-spock) |
+
+Difficulties legend:
+🟢 Easy 🟡 Medium 🔴 Hard
+
 </details>
 
 ## 🎯 2022 Challenges
