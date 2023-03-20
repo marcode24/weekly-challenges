@@ -17,6 +17,12 @@ This repository contains my solutions to the weekly challenges from [Weekly Codi
 | 04  | [Primo, Fibonnaci y Par](https://retosdeprogramacion.com/semanales2023)                 |     🟡     |        [Here](https://github.com/marcode24/weekly-challenges/tree/main/2023/04-primo-fibonnaci-par)        |
 | 05  | [¡Hola Mundo!](https://retosdeprogramacion.com/semanales2023)                           |     🟢     |            [Here](https://github.com/marcode24/weekly-challenges/tree/main/2023/05-hola-mundo)             |
 | 06  | [Piedra, Papel, Tijera, Lagarto y Spock](https://retosdeprogramacion.com/semanales2023) |     🟡     | [Here](https://github.com/marcode24/weekly-challenges/tree/main/2023/06-piedra-papel-tijera-lagarto-spock) |
+| 07  | [Sombrero seleccionador](https://retosdeprogramacion.com/semanales2023)                 |     🟡     |   [Here](https://github.com/marcode24/weekly-challenges/tree/main/2023/07-sombrero-seleccionador)          |
+| 08  | [El generador pseudoaleatorio](https://retosdeprogramacion.com/semanales2023)           |     🟡     |    [Here](https://github.com/marcode24/weekly-challenges/tree/main/2023/08-generador-pseudoaleatorio)      |
+| 09  | [Heterograma, Isograma y Pangrama](https://retosdeprogramacion.com/semanales2023)       |     🟢     |    [Here](https://github.com/marcode24/weekly-challenges/tree/main/2023/09-heterograma-isograma-pangrama)  |
+| 10  | [La API](https://retosdeprogramacion.com/semanales2023)                                 |     🟡     |              [Here](https://github.com/marcode24/weekly-challenges/tree/main/2023/10-la-api)               |
+| 11  | [URL params](https://retosdeprogramacion.com/semanales2023)                             |     🟢     |             [Here](https://github.com/marcode24/weekly-challenges/tree/main/2023/11-url-params)            |
+| 12  | [Viernes 13](https://retosdeprogramacion.com/semanales2023)                             |     🟢     |             [Here](https://github.com/marcode24/weekly-challenges/tree/main/2023/12-viernes-13)            |
 
 Difficulties legend:
 🟢 Easy 🟡 Medium 🔴 Hard
