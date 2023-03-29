@@ -14,9 +14,8 @@ const generateWord = (length) => {
   return word;
 };
 
-const generateRandomLength = (min = 8, max = 12) => {
-  return Math.floor(Math.random() * (max - min + 1) + min);
-};
+const generateRandomLength = (min = 8, max = 12) => Math
+  .floor(Math.random() * (max - min + 1) + min);
 
 const hideSomeLetters = (word) => {
   const percentToHide = Math.floor(Math.random() * 6) + 3;
@@ -30,7 +29,8 @@ const start = () => {
   const results = [...guessWord].map((char) => ({ char, guessed: (char !== '_') }));
   let attempts = 0;
 
-  console.log(`Welcome to the game!!! try to guess the word in ${MAX_ATTEMPTS} attempts \n`);
+  console.log('Welcome to the game!!!');
+  console.log(`try to guess the word in ${MAX_ATTEMPTS} attempts \n`);
   console.log(`Your word is: ${guessWord}\n`);
 
   const askQuestion = () => {
@@ -58,10 +58,11 @@ const start = () => {
       if (attempts === MAX_ATTEMPTS) {
         readLine.close();
         return console.log(`\nYou lost :( \nThe word was: ${word}`);
-      } else {
-        console.log(`\ncurrent result: ${results.map((result) => result.char).join('')} \n`);
-        return askQuestion();
       }
+
+      console.log(`\ncurrent result: ${results
+        .map((result) => result.char).join('')} \n`);
+      return askQuestion();
     });
   };
   askQuestion();
