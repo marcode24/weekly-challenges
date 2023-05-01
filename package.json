@@ -14,7 +14,8 @@
     "prepare": "husky install"
   },
   "dependencies": {
-    "node-fetch": "2.6.7"
+    "node-fetch": "2.6.7",
+    "puppeteer": "^19.11.1"
   },
   "devDependencies": {
     "@faker-js/faker": "^7.6.0",
