@@ -14,6 +14,7 @@
     "prepare": "husky install"
   },
   "dependencies": {
+    "mysql": "^2.18.1",
     "node-fetch": "2.6.7",
     "puppeteer": "^19.11.1"
   },
