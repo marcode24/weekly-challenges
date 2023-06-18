@@ -27,6 +27,8 @@ const cesarEncrypt = (str, offset) => {
       let newIndex = index + offset;
 
       if (newIndex >= alphabetLength) newIndex -= alphabetLength;
+      if (newIndex < 0) newIndex += alphabetLength;
+
       const newLetter = alphabet[newIndex];
 
       return acc + (isUpperCase ? newLetter.toUpperCase() : newLetter);
@@ -106,6 +108,12 @@ let newIndex = index + offset;
 
 ```js
 if (newIndex >= alphabetLength) newIndex -= alphabetLength;
+```
+
+- Then, I check if the `newIndex` is less than `0`.
+
+```js
+if (newIndex < 0) newIndex += alphabetLength;
 ```
 
 - After that, I create a variable called `newLetter` that will be the letter in the `newIndex` position of the `alphabet` variable.
