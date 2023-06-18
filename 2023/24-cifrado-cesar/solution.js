@@ -9,16 +9,21 @@ const cesarEncrypt = (str, offset) => {
       const isUpperCase = letter === letter.toUpperCase();
 
       if (isUpperCase) letter = letter.toLowerCase();
-
       const index = alphabet.indexOf(letter);
       let newIndex = index + offset;
 
       if (newIndex >= alphabetLength) newIndex -= alphabetLength;
-      const newLetter = alphabet[newIndex];
+      if (newIndex < 0) newIndex += alphabetLength;
 
+      const newLetter = alphabet[newIndex];
       return acc + (isUpperCase ? newLetter.toUpperCase() : newLetter);
     }, ''))
     .join(' ');
 };
 
-module.exports = cesarEncrypt;
+const cesarDecrypt = (str, offset) => cesarEncrypt(str, -offset);
+
+module.exports = {
+  cesarEncrypt,
+  cesarDecrypt,
+};
