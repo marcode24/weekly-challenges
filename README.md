@@ -4,9 +4,29 @@ This repository contains my solutions to the weekly challenges from [Weekly Codi
 
 <img alt="weekly-challenges" src="https://res.cloudinary.com/dfeujtobk/image/upload/v1675279246/Challenges/weekly-challenges_ywfp4v.png" width="1200" />
 
+## Installation & Usage
+
+```bash
+# clone the repo
+git clone https://github.com/marcode24/weekly-challenges
+
+# go to the weekly-challenges directory
+cd weekly-challenges
+
+# install dependencies
+npm install
+
+# run test
+npm run test
+
+# run specific test
+npm run test 'year'/'folder-name'/solution.test.js
+```
+
+
 ## 🎯 2023 Challenges
 
-<details hide>
+<details show>
 <summary>Show / Hide</summary>
 
 |  #  | Challenge                                                                               | Difficulty |                                                My Solution                                                 |
@@ -90,22 +110,3 @@ Difficulties legend:
 🟢 Easy 🟡 Medium 🔴 Hard
 
 </details>
-
-## Installation & Usage
-
-```bash
-# clone the repo
-git clone https://github.com/marcode24/weekly-challenges
-
-# go to the weekly-challenges directory
-cd weekly-challenges
-
-# install dependencies
-npm install
-
-# run test
-npm run test
-
-# run specific test
-npm run test 'year'/'folder-name'/solution.test.js
-```
