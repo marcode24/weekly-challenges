@@ -26,7 +26,7 @@ npm run test 'year'/'folder-name'/solution.test.js
 
 ## 🎯 2023 Challenges
 
-<details show>
+<details open>
 <summary>Show / Hide</summary>
 
 |  #  | Challenge                                                                               | Difficulty |                                                My Solution                                                 |
