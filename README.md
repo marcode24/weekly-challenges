@@ -33,6 +33,7 @@ npm run test 'year'/'folder-name'/solution.test.js
 | :-: | --------------------------------------------------------------------------------------- | :--------: | :--------------------------------------------------------------------------------------------------------: |
 | 00  | [El famoso fizz buzz](https://retosdeprogramacion.com/semanales2023)                    |     🟢     |             [Here](https://github.com/marcode24/weekly-challenges/tree/main/2023/00-fizz-buzz)             |
 | 01  | [El Lenguaje Hacker](https://retosdeprogramacion.com/semanales2023)                     |     🟢     |          [Here](https://github.com/marcode24/weekly-challenges/tree/main/2023/01-lenguaje-hacker)          |
+| 02  | [El partido de tenis](https://retosdeprogramacion.com/semanales2023)                    |     🟡     |                           [Coming Soon](https://github.com/marcode24/weekly-challenges)                    |
 | 03  | [El generador de contraseñas](https://retosdeprogramacion.com/semanales2023)            |     🟡     |     [Here](https://github.com/marcode24/weekly-challenges/tree/main/2023/03-generador-de-contraseñas)      |
 | 04  | [Primo, Fibonnaci y Par](https://retosdeprogramacion.com/semanales2023)                 |     🟡     |        [Here](https://github.com/marcode24/weekly-challenges/tree/main/2023/04-primo-fibonnaci-par)        |
 | 05  | [¡Hola Mundo!](https://retosdeprogramacion.com/semanales2023)                           |     🟢     |            [Here](https://github.com/marcode24/weekly-challenges/tree/main/2023/05-hola-mundo)             |
@@ -43,6 +44,33 @@ npm run test 'year'/'folder-name'/solution.test.js
 | 10  | [La API](https://retosdeprogramacion.com/semanales2023)                                 |     🟡     |              [Here](https://github.com/marcode24/weekly-challenges/tree/main/2023/10-la-api)               |
 | 11  | [URL params](https://retosdeprogramacion.com/semanales2023)                             |     🟢     |             [Here](https://github.com/marcode24/weekly-challenges/tree/main/2023/11-url-params)            |
 | 12  | [Viernes 13](https://retosdeprogramacion.com/semanales2023)                             |     🟢     |             [Here](https://github.com/marcode24/weekly-challenges/tree/main/2023/12-viernes-13)            |
+| 13  | [Adivina la palabra](https://retosdeprogramacion.com/semanales2023)                     |     🟡     |          [Here](https://github.com/marcode24/weekly-challenges/tree/main/2023/13-adivina-la-palabra)       |
+| 14  | [Octal y Hexadecimal](https://retosdeprogramacion.com/semanales2023)                    |     🟢     |         [Here](https://github.com/marcode24/weekly-challenges/tree/main/2023/14-octal-y-hexadecimal)       |
+| 15  | [Aurebesh](https://retosdeprogramacion.com/semanales2023)                               |     🟢     |               [Here](https://github.com/marcode24/weekly-challenges/tree/main/2023/15-aurebesh)            |
+| 16  | [La escalera](https://retosdeprogramacion.com/semanales2023)                            |     🟡     |          [Here](https://github.com/marcode24/weekly-challenges/tree/main/2023/16-la-escalera)              |
+| 17  | [Git y Github](https://retosdeprogramacion.com/semanales2023)                           |     🔴     |          [Here](https://github.com/marcode24/weekly-challenges/tree/main/2023/17-git-github)               |
+| 18  | [Web scraping](https://retosdeprogramacion.com/semanales2023)                           |     🔴     |       [Here](https://github.com/marcode24/weekly-challenges/tree/main/2023/18-web-scraping)                |
+| 19  | [Análisis de texto](https://retosdeprogramacion.com/semanales2023)                      |     🟡     |            [Here](https://github.com/marcode24/weekly-challenges/tree/main/2023/19-analisis-de-texto)      |
+| 20  | [La trifuerza](https://retosdeprogramacion.com/semanales2023)                           |     🟡     |            [Here](https://github.com/marcode24/weekly-challenges/tree/main/2023/20-la-trifuerza)           |
+| 21  | [Números primos gemelos](https://retosdeprogramacion.com/semanales2023)                 |     🟡     |         [Here](https://github.com/marcode24/weekly-challenges/tree/main/2023/21-numeros-primos-gemelos)    |
+| 22  | [La espiral](https://retosdeprogramacion.com/semanales2023)                             |     🟡     |             [Here](https://github.com/marcode24/weekly-challenges/tree/main/2023/22-la-espiral)            |
+| 23  | [La base de datos](https://retosdeprogramacion.com/semanales2023)                       |     🟡     |           [Here](https://github.com/marcode24/weekly-challenges/tree/main/2023/23-la-base-de-datos)        |
+| 24  | [Cifrado césar](https://retosdeprogramacion.com/semanales2023)                          |     🟢     |              [Here](https://github.com/marcode24/weekly-challenges/tree/main/2023/24-cifrado-cesar)        |
+| 25  | [El código konami](https://retosdeprogramacion.com/semanales2023)                       |     🟡     |           [Here](https://github.com/marcode24/weekly-challenges/tree/main/2023/25-el-codigo-konami)        |
+| 26  | [Testing](https://retosdeprogramacion.com/semanales2023)                                |     🟡     |            [Here](https://github.com/marcode24/weekly-challenges/tree/main/2023/26-testing)                |
+| 27  | [Cuenta atrás](https://retosdeprogramacion.com/semanales2023)                           |     🟡     |          [Here](https://github.com/marcode24/weekly-challenges/tree/main/2023/27-cuenta-atras)             |
+| 28  | [Expresión matemática](https://retosdeprogramacion.com/semanales2023)                   |     🟡     |           [Here](https://github.com/marcode24/weekly-challenges/tree/main/2023/28-expresion-matematica)    |
+| 29  | [El carácter infiltrado](https://retosdeprogramacion.com/semanales2023)                 |     🟢     |            [Here](https://github.com/marcode24/weekly-challenges/tree/main/2023/29-caracter-infiltrado)    |
+| 30  | [El teclado T9](https://retosdeprogramacion.com/semanales2023)                          |     🟡     |              [Here](https://github.com/marcode24/weekly-challenges/tree/main/2023/30-teclado-t9)           |
+| 31  | [El ábaco](https://retosdeprogramacion.com/semanales2023)                               |     🟢     |                [Here](https://github.com/marcode24/weekly-challenges/tree/main/2023/31-el-abaco)           |
+| 32  | [La columna de excel](https://retosdeprogramacion.com/semanales2023)                    |     🟡     |         [Here](https://github.com/marcode24/weekly-challenges/tree/main/2023/32-la-columna-de-excel)       |
+| 33  | [Tetris](https://retosdeprogramacion.com/semanales2023)                                 |     🟡     |                          [Coming Soon](https://github.com/marcode24/weekly-challenges)                     |
+| 34  | [El txt](https://retosdeprogramacion.com/semanales2023)                                 |     🟡     |                [Here](https://github.com/marcode24/weekly-challenges/tree/main/2023/34-el-txt)             |
+| 35  | [Primeros pasos](https://retosdeprogramacion.com/semanales2023)                         |     🟡     |            [Here](https://github.com/marcode24/weekly-challenges/tree/main/2023/35-primeros-pasos)         |
+| 36  | [Permutaciones](https://retosdeprogramacion.com/semanales2023)                          |     🟡     |                           [Coming Soon](https://github.com/marcode24/weekly-challenges)                    |
+| 37  | [Colores Hex y RGB](https://retosdeprogramacion.com/semanales2023)                      |     🟡     |                           [Coming Soon](https://github.com/marcode24/weekly-challenges)                    |
+| 38  | [Las sumas](https://retosdeprogramacion.com/semanales2023)                              |     🟡     |                           [Coming Soon](https://github.com/marcode24/weekly-challenges)                    |
+| 39  | [Triples pitagóricos](https://retosdeprogramacion.com/semanales2023)                    |     🟡     |                           [Coming Soon](https://github.com/marcode24/weekly-challenges)                    |
 
 Difficulties legend:
 🟢 Easy 🟡 Medium 🔴 Hard
