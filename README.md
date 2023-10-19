@@ -1,10 +1,29 @@
-# 📆 Weekly Challenges Solutions
+<div align="center">
+  <img
+    alt="weekly-challenges"
+    src="https://res.cloudinary.com/dfeujtobk/image/upload/v1675279246/Challenges/weekly-challenges_ywfp4v.png"
+    width="1200"
+    style="border-radius: 1rem" />
+  <br />
+  <br />
+
+  <h1>📆 Weekly Challenges Solutions</h1>
+
+  ![Version](https://img.shields.io/github/package-json/v/marcode24/weekly-challenges?style=popout&logo=npm)
+  ![GitHub CI Workflow Status](https://img.shields.io/github/actions/workflow/status/marcode24/weekly-challenges/challenges.yml?branch=main&style=popout&logo=testcafe&label=tests)
+  ![GitHub repo size](https://img.shields.io/github/repo-size/marcode24/weekly-challenges?style=popout&logo=github&label=repo%20size)
+  ![GitHub](https://img.shields.io/github/license/marcode24/weekly-challenges?style=popout&logo=github&label=license)
+  ![GitHub Repo stars](https://img.shields.io/github/stars/marcode24/weekly-challenges?style=popout&logo=apachespark&color=yellow&logoColor=yellow)
+  ![Github repo views](https://img.shields.io/github/search/marcode24/weekly-challenges/weekly-challenges?style=popout&logo=github&label=repo%20views)
+  ![GitHub last commit](https://img.shields.io/github/last-commit/marcode24/weekly-challenges?style=popout&logo=git&label=last%20commit)
+
+</div>
+
+## ℹ️ About
 
 This repository contains my solutions to the weekly challenges from [Weekly Coding Challenges](https://github.com/mouredev/retos-programacion-2023) by [MoureDev](https://github.com/mouredev)
 
-<img alt="weekly-challenges" src="https://res.cloudinary.com/dfeujtobk/image/upload/v1675279246/Challenges/weekly-challenges_ywfp4v.png" width="1200" />
-
-## Installation & Usage
+## 🚀 Installation & Usage
 
 ```bash
 # clone the repo
