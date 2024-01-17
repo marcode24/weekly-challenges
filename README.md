@@ -1,7 +1,7 @@
 <div align="center">
   <img
     alt="weekly-challenges"
-    src="https://res.cloudinary.com/dfeujtobk/image/upload/v1675279246/Challenges/weekly-challenges_ywfp4v.png"
+    src="https://res.cloudinary.com/dfeujtobk/image/upload/v1705525644/Challenges/hntvupdgmb1zxwx31kfc.png"
     width="1200"
     style="border-radius: 1rem" />
   <br />
@@ -42,10 +42,24 @@ npm run test
 npm run test 'year'/'folder-name'/solution.test.js
 ```
 
+## 🎯 2024 Challenges
+
+<details open>
+<summary>Show / Hide</summary>
+
+|  #  | Challenge                                                                                   | Difficulty |                                                            My Solution                                                  |
+| :-: | ------------------------------------------------------------------------------------------- | :--------: | :---------------------------------------------------------------------------------------------------------------------: |
+| 00  | [Sintaxis, Variables, Tipos de datos y Hola Mundo](https://retosdeprogramacion.com/roadmap/)|     🟢     | [Here](https://github.com/marcode24/weekly-challenges/tree/main/2024/00-sintaxis-variables-tipos-de-datos-y-hola-mundo) |
+| 01  | [Operadores y Estructuras de Control](https://retosdeprogramacion.com/roadmap/)             |     🟢     | [Here](https://github.com/marcode24/weekly-challenges/tree/main/2024/01-operadores-y-estructuras-de-control)            |
+
+Difficulties legend:
+🟢 Easy 🟡 Medium 🔴 Hard
+
+</details>
 
 ## 🎯 2023 Challenges
 
-<details open>
+<details hide>
 <summary>Show / Hide</summary>
 
 |  #  | Challenge                                                                               | Difficulty |                                                My Solution                                                 |
