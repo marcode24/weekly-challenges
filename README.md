@@ -52,6 +52,7 @@ npm run test 'year'/'folder-name'/solution.test.js
 | 00  | [Sintaxis, Variables, Tipos de datos y Hola Mundo](https://retosdeprogramacion.com/roadmap/)|     🟢     | [Here](https://github.com/marcode24/weekly-challenges/tree/main/2024/00-sintaxis-variables-tipos-de-datos-y-hola-mundo) |
 | 01  | [Operadores y Estructuras de Control](https://retosdeprogramacion.com/roadmap/)             |     🟢     | [Here](https://github.com/marcode24/weekly-challenges/tree/main/2024/01-operadores-y-estructuras-de-control)            |
 | 02  | [Funciones y alcance](https://retosdeprogramacion.com/roadmap/)                             |     🟢     | [Here](https://github.com/marcode24/weekly-challenges/tree/main/2024/02-funciones-y-alcance)                            |
+| 03  | [Estructuras de Datos](https://retosdeprogramacion.com/roadmap/)                            |     🟡     | [Here](https://github.com/marcode24/weekly-challenges/tree/main/2024/03-estructuras-de-datos)                           |
 
 Difficulties legend:
 🟢 Easy 🟡 Medium 🔴 Hard
