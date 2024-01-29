@@ -53,6 +53,8 @@ npm run test 'year'/'folder-name'/solution.test.js
 | 01  | [Operadores y Estructuras de Control](https://retosdeprogramacion.com/roadmap/)             |     🟢     | [Here](https://github.com/marcode24/weekly-challenges/tree/main/2024/01-operadores-y-estructuras-de-control)            |
 | 02  | [Funciones y alcance](https://retosdeprogramacion.com/roadmap/)                             |     🟢     | [Here](https://github.com/marcode24/weekly-challenges/tree/main/2024/02-funciones-y-alcance)                            |
 | 03  | [Estructuras de Datos](https://retosdeprogramacion.com/roadmap/)                            |     🟡     | [Here](https://github.com/marcode24/weekly-challenges/tree/main/2024/03-estructuras-de-datos)                           |
+| 04  | [Cadena de Caracteres](https://retosdeprogramacion.com/roadmap/)                            |     🟡     | [Here](https://github.com/marcode24/weekly-challenges/tree/main/2024/04-cadena-de-caracteres)                           |
+| 05  | [Valor y Referencia](https://retosdeprogramacion.com/roadmap/)                              |     🟢     | [Here](https://github.com/marcode24/weekly-challenges/tree/main/2024/05-valor-y-referencia)                             |
 
 Difficulties legend:
 🟢 Easy 🟡 Medium 🔴 Hard
