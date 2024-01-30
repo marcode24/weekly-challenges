@@ -48,13 +48,15 @@ npm run test 'year'/'folder-name'/solution.test.js
 <summary>Show / Hide</summary>
 
 |  #  | Challenge                                                                                   | Difficulty |                                                            My Solution                                                  |
-| :-: | ------------------------------------------------------------------------------------------- | :--------: | :---------------------------------------------------------------------------------------------------------------------: |
-| 00  | [Sintaxis, Variables, Tipos de datos y Hola Mundo](https://retosdeprogramacion.com/roadmap/)|     🟢     | [Here](https://github.com/marcode24/weekly-challenges/tree/main/2024/00-sintaxis-variables-tipos-de-datos-y-hola-mundo) |
+| :-: | ------------------------------------------------------------------------------------------- | :--------: | --------------------------------------------------------------------------------------------------------------------- |
+| 00  | [Sintaxis, Variables, Tipos de datos y Hola Mundo](https://retosdeprogramacion.com/roadmap/)|     🟢     | [![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)](./2024/00-sintaxis-variables-tipos-de-datos-y-hola-mundo/solution.ts) &middot; [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](./2024/00-sintaxis-variables-tipos-de-datos-y-hola-mundo/index.js) &middot; [![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)](./2024/00-sintaxis-variables-tipos-de-datos-y-hola-mundo/solution.php) |
 | 01  | [Operadores y Estructuras de Control](https://retosdeprogramacion.com/roadmap/)             |     🟢     | [Here](https://github.com/marcode24/weekly-challenges/tree/main/2024/01-operadores-y-estructuras-de-control)            |
 | 02  | [Funciones y alcance](https://retosdeprogramacion.com/roadmap/)                             |     🟢     | [Here](https://github.com/marcode24/weekly-challenges/tree/main/2024/02-funciones-y-alcance)                            |
 | 03  | [Estructuras de Datos](https://retosdeprogramacion.com/roadmap/)                            |     🟡     | [Here](https://github.com/marcode24/weekly-challenges/tree/main/2024/03-estructuras-de-datos)                           |
 | 04  | [Cadena de Caracteres](https://retosdeprogramacion.com/roadmap/)                            |     🟡     | [Here](https://github.com/marcode24/weekly-challenges/tree/main/2024/04-cadena-de-caracteres)                           |
 | 05  | [Valor y Referencia](https://retosdeprogramacion.com/roadmap/)                              |     🟢     | [Here](https://github.com/marcode24/weekly-challenges/tree/main/2024/05-valor-y-referencia)                             |
+
+
 
 Difficulties legend:
 🟢 Easy 🟡 Medium 🔴 Hard
