@@ -71,6 +71,7 @@ npm run test 'year'/'folder-name'/solution.test.js
 | 19  | [Enumeraciones](https://retosdeprogramacion.com/roadmap/)                                    |     🟡     | [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](./2024/19-enumeraciones/index.js) |
 | 20  | [Peticiones HTTP](https://retosdeprogramacion.com/roadmap/)                                  |     🔴     | [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](./2024/20-peticiones-http/index.js) |
 | 21  | [Callbacks](https://retosdeprogramacion.com/roadmap/)                                        |     🟡     | [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](./2024/21-callbacks/index.js) |
+| 22  | [Funciones de Orden Superior](https://retosdeprogramacion.com/roadmap/)                      |     🔴     | [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](./2024/22-funciones-de-orden-superior/index.js) |
 
 Difficulties legend:
 🟢 Easy 🟡 Medium 🔴 Hard
