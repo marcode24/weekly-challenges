@@ -69,6 +69,7 @@ npm run test 'year'/'folder-name'/solution.test.js
 | 17  | [Iteraciones](https://retosdeprogramacion.com/roadmap/)                                      |     🟢     | [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](./2024/17-iteraciones/index.js) |
 | 18  | [Conjuntos](https://retosdeprogramacion.com/roadmap/)                                        |     🟢     | [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](./2024/18-conjuntos/index.js) |
 | 19  | [Enumeraciones](https://retosdeprogramacion.com/roadmap/)                                    |     🟡     | [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](./2024/19-enumeraciones/index.js) |
+| 20  | [Peticiones HTTP](https://retosdeprogramacion.com/roadmap/)                                  |     🔴     | [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](./2024/20-peticiones-http/index.js) |
 
 Difficulties legend:
 🟢 Easy 🟡 Medium 🔴 Hard
