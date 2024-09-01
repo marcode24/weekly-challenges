@@ -66,6 +66,7 @@ npm run test 'year'/'folder-name'/solution.test.js
 | 14  | [Fechas](https://retosdeprogramacion.com/roadmap/)                                           |     🟢     | [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](./2024/14-fechas/index.js) |
 | 15  | [Asincronía](https://retosdeprogramacion.com/roadmap/)                                       |     🔴     | [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](./2024/15-asincronia/index.js) |
 | 16  | [Expresiones Regulares](https://retosdeprogramacion.com/roadmap/)                            |     🟡     | [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](./2024/16-expresiones-regulares/index.js) |
+| 17  | [Iteraciones](https://retosdeprogramacion.com/roadmap/)                                      |     🟢     | [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](./2024/17-iteraciones/index.js) |
 
 Difficulties legend:
 🟢 Easy 🟡 Medium 🔴 Hard
