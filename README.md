@@ -84,7 +84,7 @@ npm run test 'year'/'folder-name'/solution.test.js
 | 32  | [Batalla Deadpool y Wolverine](https://retosdeprogramacion.com/roadmap/)                      |     🟡     | [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](./2024/32-batalla-deadpool-y-wolverine/index.js) |
 | 33  | [Rescatando a Mickey](https://retosdeprogramacion.com/roadmap/)                               |     🟢     | [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](./2024/33-rescatando-a-mickey/index.js) |
 | 34  | [Arbol Genealógico de la Casa del Dragón](https://retosdeprogramacion.com/roadmap/)                 |     🔴     | [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](./2024/34-arbol-genealogico/index.js) |
-| 35  | [Repartiendo los Anillos de Poder](https://retosdeprogramacion.com/roadmap/)                 |     🟢     | [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](./2024/35-repartiendo-los-anillos-de-poder/index.js) |
+| 35  | [Repartiendo los Anillos de Poder](https://retosdeprogramacion.com/roadmap/)                 |     🟡     | [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](./2024/35-repartiendo-los-anillos-de-poder/index.js) |
 
 Difficulties legend:
 🟢 Easy 🟡 Medium 🔴 Hard
