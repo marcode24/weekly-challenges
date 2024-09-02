@@ -82,6 +82,7 @@ npm run test 'year'/'folder-name'/solution.test.js
 | 30  | [SOLID: Principio de Inversión de Dependencias](https://retosdeprogramacion.com/roadmap/)     |     🟡     | [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](./2024/30-solid-dip/index.js) |
 | 31  | [Simulador de Juegos Olímpicos](https://retosdeprogramacion.com/roadmap/)                     |     🔴     | [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](./2024/31-simulador-juegos-olimpicos/index.js) |
 | 32  | [Batalla Deadpool y Wolverine](https://retosdeprogramacion.com/roadmap/)                      |     🟡     | [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](./2024/32-batalla-deadpool-y-wolverine/index.js) |
+| 33  | [Rescatando a Mickey](https://retosdeprogramacion.com/roadmap/)                               |     🟢     | [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](./2024/33-rescatando-a-mickey/index.js) |
 
 Difficulties legend:
 🟢 Easy 🟡 Medium 🔴 Hard
