@@ -73,6 +73,7 @@ npm run test 'year'/'folder-name'/solution.test.js
 | 21  | [Callbacks](https://retosdeprogramacion.com/roadmap/)                                        |     🟡     | [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](./2024/21-callbacks/index.js) |
 | 22  | [Funciones de Orden Superior](https://retosdeprogramacion.com/roadmap/)                      |     🔴     | [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](./2024/22-funciones-de-orden-superior/index.js) |
 | 23  | [Patrones de Diseño: Singleton](https://retosdeprogramacion.com/roadmap/)                    |     🟡     | [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](./2024/23-singleton/index.js) |
+| 24  | [Patrones de Diseño: Decoradores](https://retosdeprogramacion.com/roadmap/)                  |     🟢     | [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](./2024/24-decoradores/index.js) |
 
 Difficulties legend:
 🟢 Easy 🟡 Medium 🔴 Hard
