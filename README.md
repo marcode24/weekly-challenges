@@ -80,6 +80,7 @@ npm run test 'year'/'folder-name'/solution.test.js
 | 28  | [SOLID: Principio de Sustitución de Liskov](https://retosdeprogramacion.com/roadmap/)         |     🟡     | [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](./2024/28-solid-lsp/index.js) |
 | 29  | [SOLID: Principio de Segregación de la Interfaz](https://retosdeprogramacion.com/roadmap/)    |     🟡     | [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](./2024/29-solid-isp/index.js) |
 | 30  | [SOLID: Principio de Inversión de Dependencias](https://retosdeprogramacion.com/roadmap/)     |     🟡     | [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](./2024/30-solid-dip/index.js) |
+| 31  | [Simulador de Juegos Olímpicos](https://retosdeprogramacion.com/roadmap/)                     |     🔴     | [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](./2024/31-simulador-juegos-olimpicos/index.js) |
 
 Difficulties legend:
 🟢 Easy 🟡 Medium 🔴 Hard
