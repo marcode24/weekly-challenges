@@ -1,4 +1,4 @@
-# Reto 34: Repartiendo-los-anillos-de-poder
+# Reto 34: Arbol Genealógico de la Casa del Dragón
 
 ## Enunciado
 
