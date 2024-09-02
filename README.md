@@ -76,6 +76,7 @@ npm run test 'year'/'folder-name'/solution.test.js
 | 24  | [Patrones de Diseño: Decoradores](https://retosdeprogramacion.com/roadmap/)                  |     🟢     | [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](./2024/24-decoradores/index.js) |
 | 25  | [Logs](https://retosdeprogramacion.com/roadmap/)                                              |     🟢     | [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](./2024/25-logs/index.js) |
 | 26  | [SOLID: Principio de Responsabilidad Única](https://retosdeprogramacion.com/roadmap/)         |     🟡     | [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](./2024/26-solid-srp/index.js) |
+| 27  | [SOLID: Principio Abierto-Cerrado](https://retosdeprogramacion.com/roadmap/)                  |     🟡     | [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](./2024/27-solid-ocp/index.js) |
 
 Difficulties legend:
 🟢 Easy 🟡 Medium 🔴 Hard
