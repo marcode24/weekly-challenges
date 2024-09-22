@@ -42,6 +42,26 @@ npm run test
 npm run test 'year'/'folder-name'/solution.test.js
 ```
 
+### 📝 For C# (csharp) solutions
+
+After cloning the repository, you can run the C# solutions using the [.NET SDK](https://dotnet.microsoft.com/download) and run the following commands:
+
+```bash
+# go to the weekly-challenges directory
+cd weekly-challenges
+
+# build the project
+dotnet build
+
+# run specific solution
+dotnet run 'year' 'challenge'
+
+# example
+dotnet run 2024 00
+
+# this will run the solution in the 2024/00-sintaxis-variables-tipos-de-datos-y-hola-mundo/solution.cs file
+```
+
 ## 🎯 2024 Challenges
 
 <details open>
@@ -49,7 +69,7 @@ npm run test 'year'/'folder-name'/solution.test.js
 
 |  #  | Challenge                                                                                   | Difficulty |                                                            My Solution                                                  |
 | :-: | ------------------------------------------------------------------------------------------- | :--------: | --------------------------------------------------------------------------------------------------------------------- |
-| 00  | [Sintaxis, Variables, Tipos de datos y Hola Mundo](https://retosdeprogramacion.com/roadmap/)|     🟢     | [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](./2024/00-sintaxis-variables-tipos-de-datos-y-hola-mundo/index.js) <br /> [![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)](./2024/00-sintaxis-variables-tipos-de-datos-y-hola-mundo/solution.ts) <br /> [![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)](./2024/00-sintaxis-variables-tipos-de-datos-y-hola-mundo/solution.php) |
+| 00  | [Sintaxis, Variables, Tipos de datos y Hola Mundo](https://retosdeprogramacion.com/roadmap/)|     🟢     | [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](./2024/00-sintaxis-variables-tipos-de-datos-y-hola-mundo/index.js) <br /> [![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)](./2024/00-sintaxis-variables-tipos-de-datos-y-hola-mundo/solution.ts) <br /> [![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)](./2024/00-sintaxis-variables-tipos-de-datos-y-hola-mundo/solution.php) <br /> [![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)](./2024/00-sintaxis-variables-tipos-de-datos-y-hola-mundo/solution.cs) |
 | 01  | [Operadores y Estructuras de Control](https://retosdeprogramacion.com/roadmap/)             |     🟢     | [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](./2024/01-operadores-y-estructuras-de-control/index.js) <br />  [![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)](./2024/01-operadores-y-estructuras-de-control/solution.ts) <br />  [![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)](./2024/01-operadores-y-estructuras-de-control/solution.php) |
 | 02  | [Funciones y alcance](https://retosdeprogramacion.com/roadmap/)                             |     🟢     |  [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](./2024/02-funciones-y-alcance/index.js) <br />  [![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)](./2024/02-funciones-y-alcance/solution.ts) <br />  [![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)](./2024/02-funciones-y-alcance/solution.php) |
 | 03  | [Estructuras de Datos](https://retosdeprogramacion.com/roadmap/)                            |     🟡     | [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](./2024/03-estructuras-de-datos/index.js) <br />  [![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)](./2024/03-estructuras-de-datos/solution.ts) <br />  [![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)](./2024/03-estructuras-de-datos/solution.php) |
