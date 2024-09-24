@@ -10,6 +10,7 @@ class WeeklyChallenges
 
   private static readonly Dictionary<string, Challenge> challenges2024 = new() {
     { "00", new Challenge("Sintaxis, variables, tipos de datos y ¡Hola, Mundo!", SintaxisVariables.Execute) },
+    { "01", new Challenge("Operadores y estructuras de control", OperadoresEstructurasControl.Execute) },
   };
 
   private static readonly Dictionary<int, Dictionary<string, Challenge>> challengeActions = new() {
